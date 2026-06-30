@@ -130,8 +130,6 @@
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
-## 🐍 A Snake Eating my Contributions Graph
-	
 <p align="center">
   <img src="https://raw.githubusercontent.com/omarapp19/omarapp19/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
