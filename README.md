@@ -101,15 +101,15 @@
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 <br>	
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarPerezDev&theme=tokyonight_duo" alt="OmarPerezDev" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omarapp19&theme=tokyonight_duo" alt="omarapp19" /></p>
 </details>
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 <br>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Omar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OmarPerezDev&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarPerezDev&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="OmarPerezDev" height="230px"/>
+	    <img alt="Omar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omarapp19&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarPerezDev&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="omarapp19" height="230px"/>
   </p>
 </details>
 
@@ -118,10 +118,10 @@
 <div>
   <p align="center">
 	<a href="#">
- 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarPerezDev&repo=ArmaTuAntojo&theme=tokyonight" alt="ArmaTuAntojo SaaS" />
+ 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=omarapp19&repo=ArmaTuAntojo&theme=tokyonight" alt="ArmaTuAntojo SaaS" />
  	</a>
 	<a href="#">
- 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarPerezDev&repo=ASP-WorshipApp&theme=tokyonight" alt="ASP WorshipApp" />
+ 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=omarapp19&repo=ASP-WorshipApp&theme=tokyonight" alt="ASP WorshipApp" />
  	</a>
   </p>
 </div>
@@ -132,5 +132,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align="center">
-	<img src="https://github.com/OmarPerezDev/OmarPerezDev/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+	<img src="https://github.com/omarapp19/OmarPerezDev/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
